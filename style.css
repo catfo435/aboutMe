@@ -1,6 +1,6 @@
 
 .background {
-    background:url('../assets/bgimage.jpg');
+    background:url('./assets/bgimage.JPG');
     position: relative;
     width: 100%;
     height: 100%;
