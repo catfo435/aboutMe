@@ -4,7 +4,7 @@ div{
 }
 
 .background {
-    background:url('./assets/bgimage.jpeg');
+    background:url('/assets/bgimage.jpeg');
     position: relative;
 }
 
