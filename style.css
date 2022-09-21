@@ -21,7 +21,7 @@ div{
   text-align:center;
 }
 
-.avatar {
+.avatar, .tenor-gif-embed{
   display: block;
   margin-left: auto;
   margin-right: auto;
