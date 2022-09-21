@@ -21,7 +21,7 @@ div{
   text-align:center;
 }
 
-.avatar, .tenor-gif-embed{
+.avatar{
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -42,4 +42,9 @@ div{
 .gitlogo{
  height:60;
  width:60;
+}
+
+.tenor-gif-embed{
+    width:200;
+    height:200;
 }
